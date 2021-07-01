@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/alexmercerind/harmonoid">Harmonoid</a></h1>
+<!-- <h1 align="center"><a href="https://github.com/alexmercerind/harmonoid">Harmonoid</a></h1>
 <h3 align="center">A music app with a beautiful UI to play all your music.</h3>
 <p align="center"><a href='https://github.com/alexmercerind/harmonoid/releases/download/v0.0.8/harmonoid-v0.0.8.apk'>Download APK [v0.0.8]</a></p>
 <br>
@@ -160,4 +160,4 @@ harmonoid/lib
 
 ## License
 
-GNU General Public License v3
+GNU General Public License v3 -->
