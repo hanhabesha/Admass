@@ -13,7 +13,7 @@ import 'package:harmonoid/constants/language.dart';
 
 const String TITLE = 'Admass';
 const String VERSION = '0.0.8';
-const String AUTHOR = 'alexmercerind';
+const String AUTHOR = 'Yetesfa';
 const String LICENSE = 'GPL-3.0';
 
 void main() async {
