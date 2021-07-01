@@ -1,0 +1,50 @@
+name: harmonoid
+description: A music app with a beautiful UI to play all your music!
+publish_to: 'none'
+version: 0.0.8+5002
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  animations: ^2.0.0
+  provider: ^5.0.0
+  assets_audio_player:
+    path: Flutter-AssetsAudioPlayer
+  flutter_media_metadata: ^0.1.0
+  flutter_local_notifications: ^5.0.0
+  file_picker: ^3.0.0
+  permission_handler: ^6.1.1
+  share: ^2.0.1
+  palette_generator: ^0.3.0
+  http: ^0.13.0
+  path: ^1.8.0
+  url_launcher: ^6.0.3
+  implicitly_animated_reorderable_list: ^0.4.0-dev+4
+  flag: ^5.0.0-nullsafety
+  marquee: ^2.0.0
+  auto_size_text: ^3.0.0-nullsafety.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/about-header.jpg
+    - assets/images/collection-album.jpg
+    - assets/images/credits-albums.jpg
+    - assets/images/credits-tracks.jpg
+    - assets/images/credits-artists.jpg
+    - assets/images/credits-exception.jpg
+    - assets/images/discover-albums.jpg
+    - assets/images/discover-tracks.jpg
+    - assets/images/discover-artists.jpg
+    - assets/images/exception.jpg
+    - assets/images/credits-album-art-0.jpg
+    - assets/images/credits-album-art-1.jpg
+    - assets/images/credits-album-art-2.jpg
+    - assets/images/credits-album-art-3.jpg
